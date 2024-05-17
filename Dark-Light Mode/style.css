@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+#icon{
+    width: 30px;
+    cursor: pointer;
+}
+
+nav ul{
+    flex:1;
+    text-align: right;
+}
+
+:root{
+    --primary-color: #edf2fc;
+    --secondary-color: #212121;
+
+}
+
+.dark-theme{
+    --primary-color: #000106;
+    --secondary-color: #fff;
+}
+
+.hero{
+    height: 100vh;
+    width: 100%;
+    background: var(--primary-color);
+    font-family: sans-serif;
+    position: relative;
+}
+
+nav{
+    width: 84%;
+    margin: auto;
+    padding: 20px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo{
+    width: 60px;
+    height: 60px;
+    
+}
+
+nav ul li{
+display: inline-block;
+list-style: none;
+margin: 10px 20px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: #606163;
+}
+
+nav ul li a:hover{
+    color: #ff4321;
+}
+
+.info{
+    margin-left: 8%;
+    margin-top: 12%;
+}
+
+.info h1{
+    font-size: 70px;
+    color: var(--secondary-color);
+    margin-bottom: 20px;
+    font-family: 'poppins', sans-serif;
+}
+
+span{
+    color: #ff4321;
+}
+
+.info p{
+    color: #606163;
+    line-height: 22px;
+    font-family: 'poppins', sans-serif;
+    font-size: 21px;
+}
+
+.info a{
+    background: var(--secondary-color);
+    padding: 10px 18px;
+    text-decoration: none;
+    color: var(--primary-color);
+    display: inline-block;
+    margin: 30px 0;
+    border-radius: 5px;
+    font-family: 'poppins', sans-serif;
+}
+
+.img-box{
+    width: 45%;
+    height: 80%;
+    position: absolute;
+    bottom:0;
+    right:50px;
+}
+
+.img-box img{
+    height: 100%;
+    position: absolute;
+    left:50%;
+    bottom:0;
+    transform: translate(-50%);
+    transition: bottom 1s, left 1s;
+}
+
+img.main-img{
+    height: 350px;
+    width: 350px;
+    position: relative;
+    transform: translate(-50%);
+    margin-top: 10%;
+}
+
+.img-box:hover .back-img{
+    bottom: 40px;
+}
+
+.img-box:hover .main-img{
+    left: 54%;
+}
+
+.social-links{
+    margin: 100px 0 0 8%;
+
+}
+
+.social-links a{
+    font-size: 30px;
+    color: var(--secondary-color);
+    margin-right: 20px;
+}
+
+.social-links a:hover{
+    color:#ff4321;
+}
+
