@@ -5,4 +5,4 @@
 # The T-10 Projects from the series-
 |SNo.| Project| Link | Source Code
 |-|-|-|-|
-|01|  Image Search Engine | [Demo](image-search-engine-x.netlify.app/) | [Source File](https://github.com/dev-neha-raj/Javascript-Mini-Project-Series/tree/main/Image%20Search%20Engine)
+|01|  Image Search Engine | [Demo]([image-search-engine-x.netlify.app/](https://image-search-engine-x.netlify.app/)) | [Source File](https://github.com/dev-neha-raj/Javascript-Mini-Project-Series/tree/main/Image%20Search%20Engine)
