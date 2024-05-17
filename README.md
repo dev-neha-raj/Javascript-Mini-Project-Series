@@ -13,6 +13,6 @@
 |06|  Background Change Effect | [Demo](https://background-change-1e.netlify.app/) | [Source File](https://github.com/dev-neha-raj/Javascript-Mini-Project-Series/tree/main/Image%20Search%20Engine)
 |07|  QR Code Generator | [Demo](https://qr-code-2x.netlify.app/) | [Source File](https://github.com/dev-neha-raj/Javascript-Mini-Project-Series/tree/main/Image%20Search%20Engine)
 |08|  Product Design Page | [Demo](https://productdesign09.netlify.app/) | [Source File](https://github.com/dev-neha-raj/Javascript-Mini-Project-Series/tree/main/Image%20Search%20Engine)
-|09|  To-DO List | [Demo](https://to-do-list-f9.netlify.app/) | [Source File](https://github.com/dev-neha-raj/Javascript-Mini-Project-Series/tree/main/Image%20Search%20Engine)
+|09|  TO-DO List | [Demo](https://to-do-list-f9.netlify.app/) | [Source File](https://github.com/dev-neha-raj/Javascript-Mini-Project-Series/tree/main/Image%20Search%20Engine)
 |10|  Drag and Drop | [Demo](https://drag-drop-2e.netlify.app/) | [Source File](https://github.com/dev-neha-raj/Javascript-Mini-Project-Series/tree/main/Image%20Search%20Engine)
 
