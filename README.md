@@ -2,7 +2,7 @@
 ## A series of Interactive JavaScript Mini-Projects to Grasp the Fundamentals through Hands-on Learning.
 <img src = "https://github.com/dev-neha-raj/Javascript-Mini-Project-Series/blob/main/javascript_banner.jpg" width= 100% height = 100%>
 
-# The T-10 Projects from the series-
+# The T-10 Project from series-
 |SNo.| Project| Link | Source Code
 |-|-|-|-|
 |01|  Image Search Engine | [Demo](https://image-search-engine-x.netlify.app/) | [Source File](https://github.com/dev-neha-raj/Javascript-Mini-Project-Series/tree/main/Image%20Search%20Engine)
